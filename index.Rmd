@@ -34,7 +34,7 @@ This map demonstrates the following skills:
 
 The map highlights Honey Bee Permits in Minneapolis, Minnesota, against the percentage of the population made up of renters.
 
-[![](thumbnails/Bees_Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Bees_Interactive.html){target="_blank"}
+[![](thumbnails/Bees_Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/Bees_Interactive.html){target="_blank"}
 
 # Georeferenced Map
 This map demonstrates the following skills: 
@@ -43,7 +43,7 @@ This map demonstrates the following skills:
 
 This historical map of Chicago was georeferenced to show the existing Historic Landmark Districts.
 
-[![](thumbnails/Chicago Historic Landmark Districts.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Chicago Landmark Districts){target="_blank"}
+[![](thumbnails/Chicago Historic Landmark Districts.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/Chicago Landmark Districts.pdf){target="_blank"}
 
 # Isochrone Maps
 This map demonstrates the following skills: 
@@ -54,7 +54,7 @@ This map demonstrates the following skills:
 
 This map highlights the travel time to cafes in Boston, if one were taking public transit. Data for the isochrone map was pulled from Open Street Maps.
 
-[![](thumbnails/Transit Time.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Transit Time Bos Cafes){target="_blank"}
+[![](thumbnails/Transit Time.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/Transit Time Bos Cafes.pdf){target="_blank"}
 
 # Raster Images
 This map demonstrates the following skills: 
@@ -64,7 +64,7 @@ This map demonstrates the following skills:
 
 This map highlights the travel time to cafes in Boston, if one were taking public transit. Data for the isochrone map was pulled from Open Street Maps.
 
-[![](thumbnails/Raster_Contour.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Raster_Contour.pdf){target="_blank"}
+[![](thumbnails/Raster_Contour.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/Raster_Contour.pdf){target="_blank"}
 
 # Spatial Relationships
 
@@ -73,8 +73,8 @@ These maps of New York City illustrate relationships between points and polygons
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
 
-[![](thumbnails/EZ Subway Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/EZ Subway.pdf){target="_blank"}
+[![](thumbnails/EZ Subway Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/EZ Subway.pdf){target="_blank"}
 
-[![](thumbnails/Borough Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Borough_Subway.pdf){target="_blank"}
+[![](thumbnails/Borough Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/Borough_Subway.pdf){target="_blank"}
 
 
