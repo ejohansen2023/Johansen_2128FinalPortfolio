@@ -1,5 +1,5 @@
 ---
-title: "Example Portfolio"
+title: "Final Portfolio - VIS 2128"
 author: "Emily Johansen"
 date: "10/12/2021"
 output: 
@@ -14,13 +14,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is an example of a portfolio that someone might assemble to demonstrate the skills they have developed in VIS 2128. I have created this page using RMarkdown. There are fancier tools out there for creating and hosting webpages, and you are welcome to use any of those if you like. The advantage of this approach is that you can create your webpage directly from RStudio.
 
-This example uses the `cerulean` theme, which is available by default.
-
-There are 12 themes available by default: `cerulean`, `cosmo`, `flatly`, `journal`, `lumen`, `paper`, `readable`, `sandstone`, `simplex`, `spacelab`, `united`, and `yeti`.
-
-Your portfolio should demonstrate each of the following skills (not all of which are demonstrated in this example):
+This portfolio demonstrates competency in each of the following skills gained during the course of VIS 2128: Spatial Analysis:
 
 * Displaying multiple vector layers on the same map
 * Calculating and displaying relationships among point and polygon layers based on distance
@@ -31,12 +26,55 @@ Your portfolio should demonstrate each of the following skills (not all of which
 * Georeferencing a raster image
 * Displaying data on an interactive map
 
-# Maps of Boston
-Here are two maps of Boston. I might include some text here about this set of maps.
 
-## Interactive Map
-This interactive map demonstrates the following skills: 
+# Interactive Map
+This map demonstrates the following skills: 
 
 * Displaying data on an interactive map
 
+The map highlights Honey Bee Permits in Minneapolis, Minnesota, against the percentage of the population made up of renters.
+
 [![](thumbnails/Bees_Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Bees_Interactive.html){target="_blank"}
+
+# Georeferenced Map
+This map demonstrates the following skills: 
+
+* Georeferencing a raster image
+
+This historical map of Chicago was georeferenced to show the existing Historic Landmark Districts.
+
+[![](thumbnails/Chicago Historic Landmark Districts.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Chicago Landmark Districts){target="_blank"}
+
+# Isochrone Maps
+This map demonstrates the following skills: 
+
+* Calculating and displaying relationships among point and polygon layers based on distance
+* Aggregating point data to a layer of polygons
+* Displaying multiple vector layers on the same map
+
+This map highlights the travel time to cafes in Boston, if one were taking public transit. Data for the isochrone map was pulled from Open Street Maps.
+
+[![](thumbnails/Transit Time.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Transit Time Bos Cafes){target="_blank"}
+
+# Raster Images
+This map demonstrates the following skills: 
+
+* Converting between raster layers and vector layers
+* Displaying raster data on a map
+
+This map highlights the travel time to cafes in Boston, if one were taking public transit. Data for the isochrone map was pulled from Open Street Maps.
+
+[![](thumbnails/Raster_Contour.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Raster_Contour.pdf){target="_blank"}
+
+# Spatial Relationships
+
+These maps of New York City illustrate relationships between points and polygons, and illustrate the following skills: 
+
+* Calculating and displaying relationships among point and polygon layers based on distance
+* Aggregating point data to a layer of polygons
+
+[![](thumbnails/EZ Subway Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/EZ Subway.pdf){target="_blank"}
+
+[![](thumbnails/Borough Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/Borough_Subway.pdf){target="_blank"}
+
+
