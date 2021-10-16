@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-This portfolio demonstrates competency in each of the following skills gained during the course of VIS 2128: Spatial Analysis:
+This portfolio is a demonstration of skills gained during the course of VIS 2128: Spatial Analysis. While the six maps focus on different topics and geographies, together they demonstrate competency in the following skills:  
 
 * Displaying multiple vector layers on the same map
 * Calculating and displaying relationships among point and polygon layers based on distance
@@ -28,50 +28,60 @@ This portfolio demonstrates competency in each of the following skills gained du
 
 
 # Interactive Map
+
+This map highlights Honey Bee Permits in Minneapolis, Minnesota, against the percentage of the population made up of renters. This map seeks to identify a relationship between beekeeping and housing tenure. While it was suspected that approved hive permits would be found in areas with high rates of homeownership (as opposed to renting where such improvements may be prohibited), the permits are spread fairly evenly throughout the city. On the other hand, the areas with the highest percentage of renters are clustered closer to the center of the city and along the major highways that run through Hennepin County. Data was pulled from Open Minneapolis. 
+
 This map demonstrates the following skills: 
 
 * Displaying data on an interactive map
 
-The map highlights Honey Bee Permits in Minneapolis, Minnesota, against the percentage of the population made up of renters.
 
 [![](thumbnails/Bees_Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/Bees_Interactive.html){target="_blank"}
 
 # Georeferenced Map
+
+This historical map of Chicago was georeferenced to show the existing Historic Landmark Districts. The map, created in 1898, indicates the property owned by railroad companies in what is today known as "the Loop," Chicago's key commercial area. The map indicates that much of the area previously owned by the railroad industry houses some of the most iconic places in Chicago and is today protected in the city's landmark districts, highlighting the industry's lasting impact on the urban fabric of Chicago. Data was pulled from the Harvard Map Collection and the City of Chicago Open Data. 
+
 This map demonstrates the following skills: 
 
 * Georeferencing a raster image
 
-This historical map of Chicago was georeferenced to show the existing Historic Landmark Districts.
 
 [![](thumbnails/Chicago Historic Landmark Districts.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/Chicago Landmark Districts.pdf){target="_blank"}
 
-# Isochrone Maps
+# Isochrone Map
+
+This isochrone map highlights the travel time to cafes in Boston, if one were taking public transit. The blue areas in Jamaica Plain and Dorchester show greater accessibility to cafes, likely due to the presence of the Orange and Red MBTA subway lines, respectively. The map also makes clear that certain neighborhoods in Boston, notably West Roxbury and Mattapan, cannot easily access cafes via the subway. Data for the map was pulled from Open Street Maps. 
+
 This map demonstrates the following skills: 
 
-* Calculating and displaying relationships among point and polygon layers based on distance
-* Aggregating point data to a layer of polygons
+* Calculating and displaying accessibility, based on travel time
 * Displaying multiple vector layers on the same map
 
-This map highlights the travel time to cafes in Boston, if one were taking public transit. Data for the isochrone map was pulled from Open Street Maps.
 
 [![](thumbnails/Transit Time.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/Transit Time Bos Cafes.pdf){target="_blank"}
 
-# Raster Images
+# Raster Image
+
+This map highlights the travel time to cafes in Boston assuming one were taking public transit. The map creates polygons from contiguous areas with identical accessibility scores, which may be useful in allowing the user to identify larger areas that share accessibility characteristics more generally. Data was pulled from Open Street Maps. 
+
 This map demonstrates the following skills: 
 
 * Converting between raster layers and vector layers
 * Displaying raster data on a map
 
-This map highlights the travel time to cafes in Boston, if one were taking public transit. Data for the isochrone map was pulled from Open Street Maps.
 
 [![](thumbnails/Raster_Contour.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/Raster_Contour.pdf){target="_blank"}
 
 # Spatial Relationships
 
-These maps of New York City illustrate relationships between points and polygons, and illustrate the following skills: 
+These maps of New York City illustrate relationships between points and polygons. The first map displays the number of subway stations located within 30m of a New York State Empire Zone. Empire Zones were created in 1999 to offer incentives such as tax credits and utility discounts to attract businessse and private investment to certain regions. This map seeks to identify the Empire Zones that do not benefit from direct subway access, which may hinder the performance of the businesses they are hoping to attract. The South Bronx, in particular, was a large focus of the Empire Zones program yet sees large swaths of area unserviced by the subway. The second map emphasizes a furthering of this trend; the Bronx also has the second lowest number of subway stations in the city. Data for both maps were pulled from NYC Open Data.
+
+These maps demonstrate the following skills: 
 
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
+
 
 [![](thumbnails/EZ Subway Thumbnail.png)](https://ejohansen2023.github.io/Johansen_2128FinalPortfolio/fullsize/EZ Subway.pdf){target="_blank"}
 
